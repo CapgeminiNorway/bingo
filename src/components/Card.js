@@ -1,5 +1,4 @@
 import React from "react";
-import "./push.css";
 
 const Checkmark = () => (
   <svg
@@ -14,7 +13,7 @@ const Checkmark = () => (
   </svg>
 );
 
-export default function ItemBox({ title, selected, handleClick }) {
+export default function Card({ title, selected, handleClick }) {
   return (
     <div className="item hvr-push" onClick={handleClick}>
       {title}

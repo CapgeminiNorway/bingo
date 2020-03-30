@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Logo() {
   return (
-    <a href="https://capgemini.com">
+    <a href="https://www.capgemini.com/no-no/">
       <svg id="capgemini-logo" data-name="Capgemini logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551.49 223.5">
         <defs>
           <style>{`.cls-1{fill:#12abdb;}.cls-2{fill:#0070ad;}`}</style>
